@@ -508,7 +508,7 @@ body {
   padding-bottom: 100%;
 }
 
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 5000px) {
   .dropdown {
     display: none;
   }
